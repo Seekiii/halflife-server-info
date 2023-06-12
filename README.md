@@ -30,7 +30,7 @@
         "duration": 104.42972564697266
     }
 ]
-```
+``` 
 
 - The information you will get from `get_info(ip)`:
 ```json
