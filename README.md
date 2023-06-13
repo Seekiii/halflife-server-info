@@ -3,7 +3,7 @@
 - Games from which servers you can obtain information:: [ `Counter Strike` / `Half-Life` / `Call Of Duty` / `Team Fortress 2` ]
 
 <h1>Usage:</h1>
-
+ 
 - Install "a2s" module: ```pip install python-a2s```
 - Edit `app.py` file and change ip `192.168.1.0:12345` to server IP. (line: 53)
 - Run app: `python app.py`
